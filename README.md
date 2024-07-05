@@ -72,7 +72,7 @@ This project allows you to control an LED connected to a Bolt IoT WiFi module us
 7. Click on "+That" to create the action.
 8. Select Webhooks -> Make a web request.
 9. Enter the API URL created in Step 3.
-10. Set Method to `GET` and Content Type to `application/json`.
+10. Set Method to `GET` and Content-Type to `application/json`.
 11. Click "Create Action" and then "Finish".
 
 #### Steps to Turn OFF the LED
@@ -86,5 +86,5 @@ This project allows you to control an LED connected to a Bolt IoT WiFi module us
 ## Conclusion
 
 Congratulations! You have successfully created a voice-controlled lighting system using Google Assistant, IFTTT, and the Bolt IoT platform. Now you can control your LED with simple voice commands through Google Assistant.
-Developers are requested to use this section as per reqirements to their own project implmentations, and contributions are always welcomed.
+Developers are requested to use this section per their project implementations' requirements, and contributions are always welcomed.
 Thank you.
