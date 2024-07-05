@@ -12,7 +12,6 @@ This project demonstrates how to create a voice-controlled lighting system using
    3. [Creating the GPIO Control Command](#step-3-creating-the-gpio-control-command)
    4. [IFTTT Integration via Google Assistant and Webhooks](#step-4-ifttt-integration-via-google-assistant-and-webhooks)
 5. [Conclusion](#conclusion)
-6. [Credits](#credits)
 
 ## Overview
 
